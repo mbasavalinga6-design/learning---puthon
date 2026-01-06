@@ -1,0 +1,6 @@
+text = "Hello GitHub"
+
+print(text.upper())
+print(text.lower())
+print(text[::-1])
+print(len(text))
